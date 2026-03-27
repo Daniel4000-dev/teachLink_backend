@@ -38,11 +38,9 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 # dotenv environment variable files
-.env
 .env.development.local
 .env.test.local
 .env.production.local
-.env.local
 
 # temp directory
 .temp
@@ -59,3 +57,4 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Husky internal bootstrap directory (auto-generated, not hand-edited)
 .husky/_/
+config.bat
